@@ -1,0 +1,24 @@
+{
+  "domain": "airversa_diffuser",
+  "name": "Airversa Scenta Diffuser",
+  "version": "2.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/ajachierno/ha-airversa-diffuser-int",
+  "issue_tracker": "https://github.com/ajachierno/ha-airversa-diffuser-int/issues",
+  "codeowners": ["@ajachierno"],
+  "dependencies": ["bluetooth_adapters"],
+  "requirements": ["bleak-retry-connector>=3.5.0"],
+  "iot_class": "local_push",
+  "integration_type": "device",
+  "bluetooth": [
+    {
+      "local_name": "SP3M*",
+      "connectable": true
+    },
+    {
+      "service_uuid": "0000fff0-0000-1000-8000-00805f9b34fb",
+      "local_name": "Mr. No Stink*",
+      "connectable": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "config": {
+    "flow_title": "{name}",
+    "step": {
+      "bluetooth_confirm": {
+        "description": "Set up {name}?"
+      },
+      "user": {
+        "title": "Add an Airversa Scenta diffuser",
+        "description": "Enter the Bluetooth MAC address of the diffuser. Make sure the Airversa phone app is closed so the device is reachable.\n\nDiscovered devices:\n{discovered}",
+        "data": {
+          "address": "Bluetooth address (MAC)",
+          "name": "Name (optional)"
+        }
+      }
+    },
+    "abort": {
+      "already_configured": "This diffuser is already configured.",
+      "no_devices_found": "No diffusers found."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Airversa diffuser options",
+        "data": {
+          "keepalive_seconds": "Keepalive interval (seconds)"
+        },
+        "data_description": {
+          "keepalive_seconds": "How often the keepalive frame is sent over the open BLE link. Lower this if the session ever times out."
+        }
+      }
+    }
+  }
+}
