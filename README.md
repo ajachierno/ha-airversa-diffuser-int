@@ -128,3 +128,7 @@ logger:
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+Did you find this helpful? Consider buying me a coffee to support additional development:
+buymeacoffee.com/ajachiernoo
+
