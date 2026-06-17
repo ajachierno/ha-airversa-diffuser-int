@@ -128,5 +128,17 @@ logger:
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
 ## Buy me a coffee
-Did you find this helpful? Consider buying me a coffee to support additional development: [buymeacoffee](https://buymeacoffee.com/ajachiernoo)
+
+Did you find this helpful? Consider supporting additional development:
+
+<a href="https://www.buymeacoffee.com/ajachiernoo" target="_blank">
+  <img src="brand/bmc_button.png" alt="Buy me a coffee" height="50">
+</a>
+
+<br><br>
+
+<a href="https://www.buymeacoffee.com/ajachiernoo" target="_blank">
+  <img src="brand/buymeacoffee_qr.png" alt="Buy me a coffee QR code" width="200">
+</a>
