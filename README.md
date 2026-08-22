@@ -127,18 +127,18 @@ logger:
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT — see [LICENSE](https://github.com/ajachierno/ha-airversa-diffuser-int/blob/main/LICENSE)
 
 ## Buy me a coffee
 
 Did you find this helpful? Consider supporting additional development:
 
 <a href="https://www.buymeacoffee.com/ajachiernoo" target="_blank">
-  <img src="brand/bmc_button.png" alt="Buy me a coffee" height="50">
+  <img src="https://raw.githubusercontent.com/ajachierno/ha-airversa-diffuser-int/main/brand/bmc_button.png" alt="Buy me a coffee" height="50">
 </a>
 
 <br><br>
 
 <a href="https://www.buymeacoffee.com/ajachiernoo" target="_blank">
-  <img src="brand/buymeacoffee_qr.png" alt="Buy me a coffee QR code" width="200">
+  <img src="https://raw.githubusercontent.com/ajachierno/ha-airversa-diffuser-int/main/brand/buymeacoffee_qr.png" alt="Buy me a coffee QR code" width="200">
 </a>
